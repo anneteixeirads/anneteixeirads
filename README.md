@@ -1,4 +1,4 @@
-## Hi, i´m Anne and i´m from Brazil!
+## Hi, i´m Anne!
 
 
 - 🔭 I intend to become a QA Tester!
